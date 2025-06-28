@@ -16,12 +16,6 @@ An AI-powered **real-time face mesh + concentration bar overlay** that floats ab
 
 ---
 
-## 🖥️ Demo
-
-_(Add GIF/screenshot here if available)_
-
----
-
 ## 🔧 Requirements
 
 - macOS (tested on M1 MacBook)
